@@ -2,20 +2,27 @@
 <h3 align="center">BCA Student | Programmer | Web & Python Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=BCA+Student;Started+with+my+first+C+program;Web+Development+Enthusiast;Python+Programmer;Aspiring+Software+%26+Android+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=BCA+Student;Started+with+my+first+C+program;Web+Development+Enthusiast;Python+Programmer;Aspiring+Software+%26+Android+Developer" />
+</p>
+
+---
+
+### 💡 My Coding Philosophy
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=F7DF1E&center=true&vCenter=true&width=900&lines=Start+Learning+→+Gain+Knowledge+→+Practice+Consistently+→+Achieve+Perfection" />
 </p>
 
 ---
 
 ### 🚀 About Me
 I am a **BCA student** who began my journey in programming with my **first C program**.  
-That moment sparked my curiosity and motivated me to dive deeper into the world of **software development**.
+That experience sparked my curiosity and pushed me to dive deeper into **software development**.
 
 ### 🌱 My Journey
 - 🧠 Started with **C programming**
-- 🌐 Developed interest in **Web Development**
-- 🐍 Learning & building with **Python**
-- 🎯 Aspiring for tech roles like **Software Developer** & **Android Developer**
+- 🌐 Passionate about **Web Development**
+- 🐍 Exploring **Python programming**
+- 🎯 Aiming for tech roles like **Software Developer** & **Android Developer**
 
 ---
 
