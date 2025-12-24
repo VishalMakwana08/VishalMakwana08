@@ -1,55 +1,43 @@
 <h1 align="center">👋 Hi, I'm Vishal Makwana</h1>
-<h3 align="center">BCA Student | Full-Stack Aspirant | Python Enthusiast</h3>
+<h3 align="center">BCA Student | Full-Stack Developer | Android Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=BCA+Student;Python+Programmer;Web+Developer;Aspiring+Android+Dev;Continuous+Learner" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=BCA+Student;Full+Stack+Developer;Python+%26+Java+Expert;Android+Dev+with+Kotlin;Open+Source+Contributor" />
 </p>
 
 ---
 
 ### 🚀 About Me
+I am a **BCA student** and a passionate programmer. My journey started with C, and I have since expanded my horizon into complex backend systems and modern frontend frameworks.
 
-I am a dedicated **BCA student** who turned a curiosity for logic into a passion for building software. My journey started with a simple `printf("Hello World");` in **C**, and today I am building responsive web applications and exploring the depths of **Python**.
-
-- 🔭 **I’m currently working on:** Enhancing my Full-Stack Web skills.
-- 🌱 **I’m currently learning:** Advanced Python and Android Development.
-- 🎯 **Goal:** To build scalable software that solves real-world problems.
-- ⚡ **Fun Fact:** I believe consistency is the key to mastering any syntax.
+- 📱 **Focus:** Building high-performance Android apps and scalable web solutions.
+- 💡 **Philosophy:** Start Learning → Gain Knowledge → Practice Consistently → Achieve Perfection.
+- 📬 **Connect with me:** [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_ID) | [Email](mailto:your-email@example.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ My Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+| Category | Skills |
+| :--- | :--- |
+| **Programming** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
+| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visual-studio&logoColor=white) ![Github](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) |
+
+---
+
+### 📊 GitHub Statistics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VishalMakwana08&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalMakwana08&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
-### 💡 My Coding Philosophy
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=F7DF1E&center=true&vCenter=true&width=900&lines=Learn+→+Build+→+Iterate+→+Perfect" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
