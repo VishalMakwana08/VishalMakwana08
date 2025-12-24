@@ -75,26 +75,6 @@
   }
 }
 </style>
-
-  </head>
-  <body>
-<div align="center">
-
-  <h1 class="title">👋 Hi, I'm Vishal Makwana</h1>
-
-  <p class="subtitle">
-    BCA Student | Programmer | Web & Python Enthusiast
-  </p>
-
-</div>
-
-
-<div class="card">
-
-  <p id="journey"></p>
-
-</div>
-
 <script>
 /* ===== Lightweight JS (Type Effect) ===== */
 const text = `
@@ -120,4 +100,24 @@ function typeEffect() {
 }
 
 typeEffect();
-</script></body></html>
+</script>
+  </head>
+  <body>
+<div align="center">
+
+  <h1 class="title">👋 Hi, I'm Vishal Makwana</h1>
+
+  <p class="subtitle">
+    BCA Student | Programmer | Web & Python Enthusiast
+  </p>
+
+</div>
+
+
+<div class="card">
+
+  <p id="journey"></p>
+
+</div>
+
+</body></html>
