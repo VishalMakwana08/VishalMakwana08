@@ -34,7 +34,7 @@ I am a **BCA student** and a passionate programmer. My journey started with C, a
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalMakwana08&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
