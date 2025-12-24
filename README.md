@@ -2,18 +2,10 @@
 <!-- About Me | Short Intro + Journey -->
 <!-- Author: VishalMakwana08         -->
 <!-- =============================== -->
+<html>
+  <head>
 
-<div align="center">
-
-  <h1 class="title">👋 Hi, I'm Vishal Makwana</h1>
-
-  <p class="subtitle">
-    BCA Student | Programmer | Web & Python Enthusiast
-  </p>
-
-</div>
-
-<style>
+    <style>
 /* ===== Enhanced CSS ===== */
 .title {
   font-size: 2.4rem;
@@ -84,6 +76,19 @@
 }
 </style>
 
+  </head>
+  <body>
+<div align="center">
+
+  <h1 class="title">👋 Hi, I'm Vishal Makwana</h1>
+
+  <p class="subtitle">
+    BCA Student | Programmer | Web & Python Enthusiast
+  </p>
+
+</div>
+
+
 <div class="card">
 
   <p id="journey"></p>
@@ -115,4 +120,4 @@ function typeEffect() {
 }
 
 typeEffect();
-</script>
+</script></body></html>
